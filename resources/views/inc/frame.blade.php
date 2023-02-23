@@ -234,7 +234,6 @@
                   <p>ADD New Customer</p>
                 </a>
               </li>
-
             </ul>
           </li>
           <li class="nav-item">
